@@ -1,1 +1,1 @@
-# cortex-demo
+# flywheel/cortex-demo
